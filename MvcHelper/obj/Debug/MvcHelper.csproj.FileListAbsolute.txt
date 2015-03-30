@@ -75,6 +75,5 @@ C:\Users\cagdas\Source\Repos\b592ba348981e88c479d2\MvcHelper\MvcHelper\bin\ko\Sy
 C:\Users\cagdas\Source\Repos\b592ba348981e88c479d2\MvcHelper\MvcHelper\bin\ru\System.Spatial.resources.dll
 C:\Users\cagdas\Source\Repos\b592ba348981e88c479d2\MvcHelper\MvcHelper\bin\zh-Hans\System.Spatial.resources.dll
 C:\Users\cagdas\Source\Repos\b592ba348981e88c479d2\MvcHelper\MvcHelper\bin\zh-Hant\System.Spatial.resources.dll
-C:\Users\cagdas\Source\Repos\b592ba348981e88c479d2\MvcHelper\MvcHelper\obj\Debug\MvcHelper.csprojResolveAssemblyReference.cache
 C:\Users\cagdas\Source\Repos\b592ba348981e88c479d2\MvcHelper\MvcHelper\obj\Debug\MvcHelper.dll
 C:\Users\cagdas\Source\Repos\b592ba348981e88c479d2\MvcHelper\MvcHelper\obj\Debug\MvcHelper.pdb
